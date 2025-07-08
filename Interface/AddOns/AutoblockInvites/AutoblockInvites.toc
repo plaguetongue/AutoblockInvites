@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Autoblock Invites
+## SavedVariables: AutoblockDB
+## Author: Plaguetongue https://github.com/plaguetongue
+## Version: 1.0
+## Notes: Automatically declines group invites from characters below a specified level.
+
+AutoblockInvites.lua
